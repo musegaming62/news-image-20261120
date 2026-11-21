@@ -19,3 +19,15 @@ python3 main.py
 ## Sources
 
 Every story is verified by its event date in a primary source; see `STORIES-20NOV.md` and `REFERENCES.md` for the story list and per-story sources.
+
+## Stories
+
+36 stories in total (3 heroes + 33 in the grid), across the Americas, Europe, Asia-Pacific, the Middle East and Africa, and across conflict, diplomacy, economy, tech, science, health, sport, justice and climate.
+
+Hero stories:
+
+1. Russia's biggest strike of the year hits Kyiv — and spills into Poland
+2. Markets sink as the AI trade unwinds (S&P 500 -3.7%, Nikkei -5.1%)
+3. Hormuz on edge: blockade, burning tankers, record energy shock
+
+The full numbered list, with a one-line summary, region, topic and source per story, is in `STORIES-20NOV.md`.
